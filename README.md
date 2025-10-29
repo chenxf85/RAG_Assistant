@@ -104,9 +104,7 @@
 1. **Chat Mode**
 
    + **Deep Thinking and Web Search**
-
      <video src="./figures/chat_demo.mp4"></video>
-
    + **RAG**
 
      + Visual knowledge base management with UI CRUD
@@ -142,7 +140,7 @@
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/RAG_Assistant.git
+git clone https://github.com/chenxf85/RAG_Assistant.git
 cd RAG_Assistant
 ```
 
@@ -200,7 +198,7 @@ pip install -r requirements.txt
 **4. Install fine-tuning framework (optional)**
 
 + **LLaMA-Factory installation**:
-  [GitHub - hiyouga/LLaMA-Factory: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)](https://github.com/hiyouga/LLaMA-Factory)
+  [GitHub - hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 
   ```cmd
   git clone --depth 1 https://github.com/hiyouga/LLaMA-Factory.git
@@ -385,7 +383,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 9 📞 Support
 - **Issues**: [GitHub Issues](https://github.com/chenxf85/RAG_Assistant/issues)
-- **Discussion**: [GitHub Discussions](https://github.com/chenxf85/RAG_Assistant/discussions)
 - **Email**: 225010222@link.cuhk.edu.cn
 
 ---
