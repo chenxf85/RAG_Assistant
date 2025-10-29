@@ -3,7 +3,7 @@
 <div align="center">
 <img src="figures/logo.png" width="600" alt="RAG Assistant Logo">
 </div>
-#                       A Personal Knowledge Base Assistant Supporting Cloud APIs and Local Models
+
 
 <div align="center">
 
@@ -12,7 +12,9 @@
 [![Gradio](https://img.shields.io/badge/Gradio-5.35.0-orange.svg)](https://gradio.app/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.14-red.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-    
+
+**A Personal Knowledge Base Assistant Supporting Cloud APIs and Local Models**
+</div>
 
 **Language | 语言**:
 
