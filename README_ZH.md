@@ -37,7 +37,7 @@
 - 🚀**可选登录方式**：灵活的注册访问与快速游客访问： 
 - 🎨 **可视化界面**：Gradio网页展示，直观的网页界面，支持深色/浅色主题
 - 🎯**多模式选择**：支持聊天模式，智能体模式（React Agent），指定模式。
-- **多轮对话：** 支持多轮对话，动态调整聊天参数
+- 🎓**多轮对话：** 支持多轮对话，动态调整聊天参数
 - 🚀 **多模型支持**：大模型和嵌入模型都支持API调用和本地调用.
 - 🧠 **RAG优化**：基于**Langchain和Chroma**的高精度的RAG。
 - 🔧 **LangGraph智能体框架**：内置智能体功能，支持自定义工具集成
@@ -148,7 +148,7 @@
 **1. 克隆仓库**
 
 ```bash
-git clone https://github.com/your-username/RAG_Assistant.git
+git clone https://github.com/chenxf85/RAG_Assistant.git
 cd RAG_Assistant
 ```
 
@@ -209,7 +209,7 @@ pip install -r requirements.txt
 **4.微调框架安装（可选）**
 
 + **llama-factory安装**:
-  [GitHub - hiyouga/LLaMA-Factory: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)](https://github.com/hiyouga/LLaMA-Factory)
+  [GitHub - hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 
   ```cmd
   git clone --depth 1 https://github.com/hiyouga/LLaMA-Factory.git
@@ -403,7 +403,6 @@ python serve/run_gradio.py
 ## 9 📞 支持
 
 - **问题反馈**：[GitHub Issues](https://github.com/chenxf85/RAG_Assistant/issues)
-- **讨论交流**：[GitHub Discussions](https://github.com/chenxf85/RAG_Assistant/discussions)
 - **邮箱联系**：225010222@link.cuhk.edu.cn
 
 ---
