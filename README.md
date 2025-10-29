@@ -33,7 +33,7 @@
 - 🚀 **Flexible sign-in**: Support both registered users and quick guest access
 - 🎨 **Visual UI**: Gradio-based web interface with light/dark themes
 - 🎯 **Multiple modes**: Chat mode, Agent mode (ReAct Agent), Task-specific mode
-- **Multi-turn conversation**: Preserve and adjust chat parameters dynamically
+- 🎓 **Multi-turn conversation**: Preserve and adjust chat parameters dynamically
 - 🚀 **Multiple model backends**: Both LLMs and embedding models support API and local invocation
 - 🧠 **RAG optimization**: High-accuracy RAG built with **LangChain and Chroma**
 - 🔧 **LangGraph Agent Framework**: Built-in agent features with custom tool integration
@@ -104,14 +104,22 @@
 1. **Chat Mode**
 
    + **Deep Thinking and Web Search**
-     <video src="./figures/chat_demo.mp4"></video>
+     
+
+https://github.com/user-attachments/assets/c60001e0-4088-47a7-94e2-de225ffbc650
+
+
    + **RAG**
+
+
+https://github.com/user-attachments/assets/58d1d080-a894-4480-9a90-3aed97b3ff8b
+
 
      + Visual knowledge base management with UI CRUD
      + Quick Search using cosine similarity or MMR for vector matching
      + Advanced Search with multi-query rewriting and hybrid retrieval (text + vector). Initial recall results are improved via re-ranking and context compression. Re-ranking supports both cross-encoder (local) and LLM reranking
 
-     <video src="./figures/rag_demo.mp4"></video>
+ 
 
 2. **Task-specific Mode**
 
@@ -119,13 +127,17 @@
      - Batch upload for generating summaries
      - Long document support. Short documents are fed directly as context; for long documents, refine and map-reduce are considered, calling LLM multiple times to compose the final summary
 
-   <video src="./figures/abstract_demo.mp4"></video>
+
+https://github.com/user-attachments/assets/c8e595eb-b495-4726-bd94-d8a5f0225e85
+
 
 3. **Agent Mode**
 
    - **Reasoning and Planning**
 
-     <video src="./figures/agent_demo.mp4"></video>
+
+https://github.com/user-attachments/assets/2ed41ed8-ac09-4529-b58c-3142344b041d
+
 
 ## 4🚀 Quick Start
 
@@ -287,9 +299,10 @@ Visit: `http://localhost:7860`
 │   ├── globals.py                    # Global config and caches
 │   └── requirements.txt              # Python dependencies
 ├── figures/                          # Images and demo assets
-├── cache/                            # Cache (distributed/VRAM strategy)
 ├── LICENSE                           # License
+├── README.md                         # English README
 └── README_zh.md                      # Chinese README
+
 ```
 
 ## 6 🔧 Configuration
