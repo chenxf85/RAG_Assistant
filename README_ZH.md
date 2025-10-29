@@ -30,7 +30,7 @@
 
 **RAG Assistant** 是一个基于 **LangChain 和LangGrpah**构建的综合个人知识库助手。尽管他命名为**RAG Assistant,**但在开发后期我为它增加了许多功能：包括多轮对话，联网搜索，工具调用，智能体模式等等。**RAG Assistant**为大语言模型 API 提供统一接口，支持云端和本地模型部署。
 
-![effective_agents](.\figures\effective_agents.jpg)
+![effective_agents](./figures/effective_agents.jpg)
 
 **核心亮点：集成了Retrival,Tools 和Memory的LLM应用**
 
@@ -111,7 +111,7 @@
 
    + **深度思考与联网搜素**
 
-     <video src=".\figures\chat_demo.mp4"></video>
+     <video src="./figures/chat_demo.mp4"></video>
 
    + **RAG**
 
@@ -119,7 +119,7 @@
      + 支持快速搜索，基于余弦相似度或者MMR算法匹配文本向量
      + 支持高级搜索，使用多重查询改写用户问题，采用文本和向量的混合检索。对于初步召回结果，采用重排序和上下文压缩的方法，提高检索的精度。重排序分为交叉编码器重排（本地）和LLM重排。
 
-     <video src=".\figures\rag_demo.mp4"></video>
+     <video src="./figures/rag_demo.mp4"></video>
 
 2. **指定模式**
 
@@ -127,13 +127,13 @@
      - 支持文档批量上传，生成摘要
      - 支持长文档的摘要生成。短文档直接将文本作为上下文；对于长文档，会考虑refine和map-reduce方法，多次调用LLM，生成摘要。
 
-   <video src=".\figures\abstract_demo.mp4"></video>
+   <video src="./figures/abstract_demo.mp4"></video>
 
 3. **智能体模式**
 
    - **思考与推理**
 
-     <video src=".\figures\agent_demo.mp4"></video>
+     <video src="./figures/agent_demo.mp4"></video>
 
 ## 4🚀 快速开始
 
@@ -397,13 +397,13 @@ python serve/run_gradio.py
 ## 8 🙏 致谢
 
 - [DataWhale](https://datawhalechina.github.io/llm-universe/) - 原始教程灵感
-- [LLaMA-Factory]([GitHub - hiyouga/LLaMA-Factory: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)](https://github.com/hiyouga/LLaMA-Factory/tree/main)):微调框架支持
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/tree/main)):微调框架支持
 - [GPT_API_free](https://github.com/chatanywhere/GPT_API_free):免费的OpenAI模型支持
 
 ## 9 📞 支持
 
-- **问题反馈**：[GitHub Issues](https://github.com/your-username/RAG_Assistant/issues)
-- **讨论交流**：[GitHub Discussions](https://github.com/your-username/RAG_Assistant/discussions)
+- **问题反馈**：[GitHub Issues](https://github.com/chenxf85/RAG_Assistant/issues)
+- **讨论交流**：[GitHub Discussions](https://github.com/chenxf85/RAG_Assistant/discussions)
 - **邮箱联系**：225010222@link.cuhk.edu.cn
 
 ---
