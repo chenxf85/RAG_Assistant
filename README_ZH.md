@@ -397,7 +397,7 @@ python serve/run_gradio.py
 ## 8 🙏 致谢
 
 - [DataWhale](https://datawhalechina.github.io/llm-universe/) - 原始教程灵感
-- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/tree/main)):微调框架支持
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/tree/main):微调框架支持
 - [GPT_API_free](https://github.com/chatanywhere/GPT_API_free):免费的OpenAI模型支持
 
 ## 9 📞 支持
