@@ -380,7 +380,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 8 🙏 Acknowledgements
 
 - [DataWhale](https://datawhalechina.github.io/llm-universe/) - Original tutorial inspiration
-- [LLaMA-Factory]([GitHub - hiyouga/LLaMA-Factory: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)](https://github.com/hiyouga/LLaMA-Factory/tree/main)) - Fine-tuning framework support
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/tree/main) - Fine-tuning framework support
 - [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free OpenAI API support
 
 ## 9 📞 Support
