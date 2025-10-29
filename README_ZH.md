@@ -3,7 +3,7 @@
 <div align="center">
 <img src="figures/logo.png" width="600" alt="RAG Assistant Logo">
 </div>
-#                       支持大模型API和本地模型的个人知识库助手
+                       支持大模型API和本地模型的个人知识库助手
 
 <div align="center">
 
