@@ -168,7 +168,7 @@ git clone https://github.com/chenxf85/RAG_Assistant.git
 cd RAG_Assistant
 ```
 
-**2. 安装依赖
+**2. 安装依赖**
 
 ```bash
 #创建虚拟环境：
