@@ -26,7 +26,7 @@
 
 **RAG Assistant** is a comprehensive personal knowledge base assistant built on **LangChain and LangGraph**. Although it's named **RAG Assistant**, during later development many features were added: multi-turn chat, web search, tool invocation, agent mode, and more. **RAG Assistant** provides a unified interface for large language model APIs and supports both cloud and local model deployment.
 
-![effective_agents](.\figures\effective_agents.jpg)
+![effective_agents](./figures/effective_agents.jpg)
 
 **Core highlight: An LLM application integrating Retrieval, Tools, and Memory**
 
@@ -105,7 +105,7 @@
 
    + **Deep Thinking and Web Search**
 
-     <video src=".\figures\chat_demo.mp4"></video>
+     <video src="./figures/chat_demo.mp4"></video>
 
    + **RAG**
 
@@ -113,7 +113,7 @@
      + Quick Search using cosine similarity or MMR for vector matching
      + Advanced Search with multi-query rewriting and hybrid retrieval (text + vector). Initial recall results are improved via re-ranking and context compression. Re-ranking supports both cross-encoder (local) and LLM reranking
 
-     <video src=".\figures\rag_demo.mp4"></video>
+     <video src="./figures/rag_demo.mp4"></video>
 
 2. **Task-specific Mode**
 
@@ -121,13 +121,13 @@
      - Batch upload for generating summaries
      - Long document support. Short documents are fed directly as context; for long documents, refine and map-reduce are considered, calling LLM multiple times to compose the final summary
 
-   <video src=".\figures\abstract_demo.mp4"></video>
+   <video src="./figures/abstract_demo.mp4"></video>
 
 3. **Agent Mode**
 
    - **Reasoning and Planning**
 
-     <video src=".\figures\agent_demo.mp4"></video>
+     <video src="./figures/agent_demo.mp4"></video>
 
 ## 4🚀 Quick Start
 
