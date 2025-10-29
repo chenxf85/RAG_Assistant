@@ -3,7 +3,8 @@
 <div align="center">
 <img src="figures/logo.png" width="600" alt="RAG Assistant Logo">
 </div>
-                       支持大模型API和本地模型的个人知识库助手
+
+            
 
 <div align="center">
 
@@ -12,6 +13,9 @@
 [![Gradio](https://img.shields.io/badge/Gradio-5.35.0-orange.svg)](https://gradio.app/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.14-red.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+ **支持大模型API和本地模型的个人知识库助手**
+</div>
 
 
 ****
