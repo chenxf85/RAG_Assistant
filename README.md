@@ -16,7 +16,7 @@
 
 **Language | 语言**:
 
- [ English | [中文](README_zh.md) ]
+ [ English | [中文](README_ZH.md) ]
 
 ---
 
