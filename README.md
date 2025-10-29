@@ -384,7 +384,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free OpenAI API support
 
 ## 9 📞 Support
-8
 - **Issues**: [GitHub Issues](https://github.com/chenxf85/RAG_Assistant/issues)
 - **Discussion**: [GitHub Discussions](https://github.com/chenxf85/RAG_Assistant/discussions)
 - **Email**: 225010222@link.cuhk.edu.cn
