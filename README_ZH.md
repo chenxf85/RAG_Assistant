@@ -190,11 +190,11 @@ pip install -r requirements.txt
 
 + **llama-cpp-python**
 
-  + 安装VS2022
+  + **安装VS2022**
 
     勾选桌面开发即可。也可以按照[llama.cpp Github](https://github.com/ggml-org/llama.cpp/blob/master/docs/build.md)要求安装VS组件。
 
-  + **（Cuda加速）**安装对应版本的Cuda Toolkit(勾选Visual Studio intergration).**注意**，VS2022需要cuda >=12.4.如果cuda版本过低，可以选择VS2019;或者，升级nvidia驱动后，重新下载高版本的cuda toolkkit.
+  + **（Cuda加速）** 安装对应版本的Cuda Toolkit(勾选Visual Studio intergration).**注意**，VS2022需要cuda >=12.4.如果cuda版本过低，可以选择VS2019;或者，升级nvidia驱动后，重新下载高版本的cuda toolkkit.
 
     ```makefile
     #配置环境变量Path,在Path中加入Cuda安装目录下的bin和libnvvp文件夹，例如:
@@ -205,7 +205,7 @@ pip install -r requirements.txt
     CUDA_PATH_V12_8 = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.8 
     ```
 
-  + 安装llama-cpp-python:
+  + **安装llama-cpp-python**:
     在powershell中输入：
 
     + Cuda加速:
