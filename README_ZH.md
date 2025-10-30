@@ -99,7 +99,7 @@
 - **LLaMA Factory 集成**：内置微调界面。用户可以将llamafactory微调的本地模型，在Rag Assistant中部署，验证模型性能
 
 - **自定义系统提示词**：支持用户自定义prompt，打造个性化LLM应用。
-- **Langsmith项目跟踪**：支持Langsmith检测LLM应用过程，需要在```.env``文件配置Langsmith相关环境变量
+- **Langsmith项目跟踪**：支持Langsmith检测LLM应用过程，需要在```.env```文件配置Langsmith相关环境变量
 
 
 
