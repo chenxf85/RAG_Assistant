@@ -28,7 +28,7 @@
 
 ## 1 📖 项目简介
 
-**RAG Assistant** 是一个基于 **LangChain 和LangGrpah**构建的综合个人知识库助手。尽管他命名为**RAG Assistant,**但在开发后期我为它增加了许多功能：包括多轮对话，联网搜索，工具调用，智能体模式等等。**RAG Assistant**为大语言模型 API 提供统一接口，支持云端和本地模型部署。
+**RAG Assistant** 是一个基于 **LangChain 和LangGrpah**构建的综合个人知识库助手。尽管他命名为**RAG Assistant**，但在开发后期我为它增加了许多功能：包括多轮对话，联网搜索，工具调用，智能体模式等等。**RAG Assistant**为大语言模型 API 提供统一接口，支持云端和本地模型部署。
 
 ![effective_agents](./figures/effective_agents.jpg)
 
